@@ -1,4 +1,7 @@
 "# Morse-Code-generator" 
+
+
+
 🎙️ Voice to Morse Code Generator 🔔
 Convert spoken words into Morse code using Python & Arduino!
 📌 Overview
@@ -58,18 +61,11 @@ Plug in your Arduino and find the correct COM port.
 Update COM3 in the Python script if needed.
 
 Run the Python file:
-
 bash
 Copy
 Edit
 python voice_to_morse.py
-🎥 Demo
-Add a short video or GIF here if you have one!
 
-💡 Future Ideas
-Add LED blink alongside buzzer sound.
-
-Display Morse code visually on an LCD.
 
 Add support for multiple languages.
 
